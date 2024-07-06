@@ -200,10 +200,6 @@ header
 }
 .about-img img
 {
-    margin-left: 7rem;
-    margin-right: -18rem;
-    margin-top: 2rem;
-    margin-bottom: auto;
     display: flex;
     object-fit: contain;
     top: 3rem;
